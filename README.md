@@ -7,4 +7,4 @@ Most popular news list in Main Page.
 4) Date conv. </br>
 5) Show HTML News List </br>
 
-CMS Bitrix http://amur28.info/
+CMS Bitrix, project http://amur28.info/
