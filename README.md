@@ -2,7 +2,9 @@
 Most popular news list in Main Page.
 
 1) Get News </br>
-2) Filter News
-3) Sort News
-4) Date conv. 
-5) Show HTML News List 
+2) Filter News </br>
+3) Sort News </br>
+4) Date conv. </br>
+5) Show HTML News List </br>
+
+CMS Bitrix http://amur28.info/
